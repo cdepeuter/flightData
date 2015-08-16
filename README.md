@@ -1,0 +1,1 @@
+Just some fiddling around with flight data to answer some questions i've got and to improve my numpy/pandas/plotting skills.
